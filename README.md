@@ -11,10 +11,10 @@
 
 ## 📚 Learning & Interested
 
-<code><img height="75" src="https://image.flaticon.com/icons/svg/917/917316.svg"></code>
-<code><img height="75" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdesignnavigator.daimler.com%2FDaimler_Pictogram_Artificial_intelligence%3Flang%3Den&psig=AOvVaw1sBFH1--UF5Mp9NV3kzppr&ust=1648383358432000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKim0ubg4_YCFQAAAAAdAAAAABAJ"></code>
-<code><img height="75" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
-<code><img height="75" src="https://image.flaticon.com/icons/svg/3288/3288086.svg"></code>
+<code><img height="75" src="https://pngset.com/images/logo-python-icon-python-logo-number-symbol-text-alphabet-transparent-png-2507186.png"></code>
+<code><img height="75" src="https://designnavigator.daimler.com/files/downloads/Daimler/Pictogram_Libraries_2020/Part_Sustainability/__thumbnail/Daimler_Picto_Artificial_Intelligence_1920x1280.png"></code>
+<code><img height="75" src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png"></code>
+<code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png"></code>
 
 ## 📫 How to Reach Me
 
