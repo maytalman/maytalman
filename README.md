@@ -1,26 +1,63 @@
-### Hi there 👋
-<br />
-
-### Contact
-
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-
-<br />
+### Heyy Lady and Gentlemen 👋
 
 
-[linkedin]: https://www.linkedin.com/in/ebrumaytalman-0699481b0/
-[gmail]: mailto:maytalman216@gmail.com
+## 📌 GitHub Stats And Top Languages
+
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=UtkuGlsvn&show_icons=true&count_private=true&hide=contribs,issues" alt="UtkuGlsvn's github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkuGlsvn&layout=compact&hide=html,css" alt="My Top Langs" />
+</p>
 
 
-### Languages and Frameworks
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
+## 📚 Learning & Interested
 
-<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<code><img height="75" src="https://image.flaticon.com/icons/svg/882/882710.svg"></code>
+<code><img height="75" src="https://image.flaticon.com/icons/svg/917/917316.svg"></code>
+<code><img height="75" src="https://image.flaticon.com/icons/svg/887/887813.svg"></code>
+<code><img height="75" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
+<code><img height="75" src="https://image.flaticon.com/icons/svg/3288/3288086.svg"></code>
 
 
-### Database
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+## 📚 My Medium Account
+[@utkuglsvn ](https://medium.com/@utkuglsvn)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maytalman&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maytalman&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+## 📫 How to Reach Me
+
+
+[![Linkedin Badge](https://img.shields.io/badge/utkuglsvn-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/utkuglsvn/)
+
+## ⚡ Fun Fact
+
+I love startup culture :)
+
+Even though I have a few sinking or not holding ideas, I will contribute to the startup culture without giving up, for a better world.
+
+### 🔭 Start-up companies that I actively support
+
+BenzinLitre Android Developer, [benzinlitre get play store :)].
+
+<code><img height="75" src="https://www.benzinlitre.com/public/site/tema2/image/logo.svg"></code>
+
+[benzinlitre get play store :)]: https://play.google.com/store/apps/details?id=com.benzinlitre.app&hl=en
+
+My google play store https://play.google.com/store/apps/developer?id=FoxyCode&hl=en
+
+### 🤔 How to write github proflie
+
+tr blog-> https://medium.com/@utkuglsvn/github-profilinize-readme-olu%C5%9Fturma-70f9ee897c8c
+
+en blog-> https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
+<!--
+**UtkuGlsvn/UtkuGlsvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
