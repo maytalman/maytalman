@@ -1,14 +1,6 @@
 ### Hi 👋
 
 
-## 📌 GitHub Stats And Top Languages
-
-<p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=maytalman&show_icons=true&count_private=true&hide=contribs,issues" alt="maytalman's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maytalman&layout=compact&hide=html,css" alt="My Top Langs" />
-</p>
-
-
 ## 📚 Learning & Interested
 
 <code><img height="75" src="https://pngset.com/images/logo-python-icon-python-logo-number-symbol-text-alphabet-transparent-png-2507186.png"></code>
